@@ -31,6 +31,9 @@
     padding-left: 5%;
     padding-right: 5%;
   }
+  #teacher {
+    display: none;
+  }
 }
 
 #course-card {
