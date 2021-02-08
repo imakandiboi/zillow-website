@@ -1,0 +1,46 @@
+@media (max-width: 800px) {
+  #course-images {
+    margin-top: 10px;
+  }
+  #popular {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 20px;
+  }
+  #landing-img {
+    display: none;
+  }
+  .input-field {
+    display: block;
+  }
+  .btn {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+  .landing-text {
+    font-size: 2rem;
+    margin-top: 20px;
+    text-align: center;
+    align-content: center;
+    padding-right: 0;
+  }
+  .hero {
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+}
+
+#course-card {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.button {
+  height: 45px;
+}
+.p-text {
+  margin-left: 10%;
+  margin-right: 10%;
+}
